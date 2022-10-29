@@ -1,7 +1,7 @@
 {
   "alumnos": [
     {
-    "id": 1,      
+    "id": "1",      
     "usuario": "ed.zamorag",
     "nombre": "Eduardo Zamora",
     "email": "ed.zamorag@duocuc.cl",
@@ -11,7 +11,7 @@
     "password": "12345678"      
     },
     {
-      "id": 2,      
+      "id": "2",      
       "usuario": "pe.pito",
       "nombre": "Pepito",
       "email": "pepito@duocuc.cl",
@@ -22,7 +22,7 @@
       "password": "11111"      
     },
     {
-      "id": 3,      
+      "id": "3",      
       "usuario": "Sc.johansson",
       "nombre": "Scarlett Johansson",
       "email": "sc.johansson@duocuc.cl",
@@ -35,7 +35,7 @@
   ],
   "docentes": [
     {
-      "id": 1,
+      "id": "1",
       "seccion": "008D",
       "asignatura": "APLICACIONES MOVILES",
       "docente": "Yaravi Villegas",
