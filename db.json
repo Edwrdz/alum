@@ -1,0 +1,46 @@
+{
+  "alumnos": [
+    {
+    "id": "1",      
+    "usuario": "ed.zamorag",
+    "nombre": "Eduardo Zamora",
+    "email": "ed.zamorag@duocuc.cl",
+    "telefono": "912345678",
+    "carrera": "Analista Programador",      
+    "jornada": "Diurno"
+    "password": "12345678"      
+    }
+    {
+      "id": 2,      
+      "usuario": "pe.pito",
+      "nombre": "Pepito",
+      "email": "pepito@duocuc.cl",
+      "avatar":	"../assets/fotoPerfil/foto2.png",
+      "telefono": "987654321",
+      "carrera": "Analista Programador",      
+      "jornada": "Diurno",
+      "password": "11111"      
+    },
+    {
+      "id": 3,      
+      "usuario": "Sc.johansson",
+      "nombre": "Scarlett Johansson",
+      "email": "sc.johansson@duocuc.cl",
+      "avatar":	"../assets/fotoPerfil/foto3.png",
+      "telefono": "981726354",
+      "carrera": "Analista Programador",      
+      "jornada": "Diurno",
+      "contraseña": "56789"
+    }
+  ],
+  "docentes": [
+    {
+      "id": 1,
+      "seccion": "008D",
+      "asignatura": "APLICACIONES MOVILES",
+      "docente": "Yaravi Villegas",
+      "correo": "ya.villegas@profesor.duoc.cl",
+      "avatar":	"../assets/fotoPerfil/docente1.png"
+    }
+  ]
+}
